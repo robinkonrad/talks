@@ -14,4 +14,4 @@ As the content of this session is evolving, you will find the slide deck for eac
 
 - [Azure Bootcamp Switzerland](https://www.azurebootcamp.ch/sessions/#eventdriven) : [Slide deck](https://github.com/robinkonrad/talks/blob/main/event-driven-architectures-on-azure-done-right/2023-05-11-AzureBootCampSwitzerland/AzureBootCampSwitzerland-EventDrivenArchitectures.pdf)
 - [techcamp.Hamburg](https://techcamp.hamburg/programm-2023/) : [Slide deck](https://github.com/robinkonrad/talks/blob/main/event-driven-architectures-on-azure-done-right/2023-06-01-techcamp.Hamburg/techcampHamburg-EventDrivenArchitectures.pdf)
-- [Developer Week 2023](https://www.developer-week.de/programm/#/talk/eventdriven-systems-on-azure-done-right)
+- [Developer Week 2023](https://www.developer-week.de/programm/#/talk/eventdriven-systems-on-azure-done-right) : [Slide deck](https://github.com/robinkonrad/talks/blob/main/event-driven-architectures-on-azure-done-right/2023-06-29-DeveloperWeek-2023/DWX-EventDrivenArchitectures.pdf)
